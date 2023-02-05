@@ -1,0 +1,26 @@
+.title{
+    color: red;
+    text-align: center;
+}
+.count{
+    color: blueviolet;
+    text-align: center;
+}
+.increment{
+    text-align: center;
+    padding: 1%;
+}
+.reset{;
+    text-align: center;
+    padding: 1%;
+}
+.decrement{
+    text-align: center;
+    padding: 1%;
+}
+.counter{
+    border: 5px solid;
+    margin:1090;
+    background-color: beige;
+    margin:100px;
+}
